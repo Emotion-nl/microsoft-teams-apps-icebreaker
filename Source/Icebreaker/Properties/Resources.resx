@@ -154,7 +154,7 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>IAls je zin hebt, zoek gewoon even contact, het is super makkelijk!</value>
+    <value>Als je zin hebt, zoek gewoon even contact, het is super makkelijk!</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
